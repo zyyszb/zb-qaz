@@ -4,10 +4,10 @@ CECO2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CECO3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CECO4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
-更新4.22,zy,https://epg.112114.xyz/
+更新4.22,zy
 优化,https://vdse.bdstatic.com//f8137fdaf1263ebc4f5369d8c6e4a13f.mp4
 1,https://vdse.bdstatic.com//f8137fdaf1263ebc4f5369d8c6e4a13f.mp4
-1电信,zy
+001电信,zy
 CCTV1,http://125.69.147.107:8888/udp/239.93.0.184:5140
 CCTV2,http://125.69.147.107:8888/udp/239.93.1.23:6000
 CCTV3,http://125.69.147.107:8888/udp/239.93.1.11:2223
