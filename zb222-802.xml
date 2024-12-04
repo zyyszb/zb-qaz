@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视摸频道,#genre#
 CCTV-1,http://39.134.67.108/PLTV/88888888/224/3221226119/1.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
 CCTV-2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226739/1.m3u8#http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId=
 CCTV-3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226720/1.m3u8#http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8#http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId=
@@ -16,13 +16,7 @@ CCTV-12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8#http://ottrrs.h
 CCTV-13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226537/index.m3u8#http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000510#http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000345/index.m3u8?IASHttpSessionId=
 CCTV-16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226660/1.m3u8#http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000513
-香港频道,#genre#
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn#mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
-TVB Plus,https://play.kankanlive.com/live/18577c0c41309a68f82900c5.flv#https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://php.jdshipin.com/TVOD/iptv.php?id=fct4#http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-TVB华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali#http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-凤凰资讯台,http://223.105.252.60/PLTV/3/224/3221228524/1.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
-凤凰中文台,http://223.105.252.60/PLTV/3/224/3221228527/1.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
+tp://223.105.252.60/PLTV/3/224/3221228527/1.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
 凤凰香港,http://223.105.252.60/PLTV/3/224/3221228530/1.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 广东电视台,#genre#
 广东新闻,http://mom.cloudns.be:9901/tsfile/live/1008_1.m3u8
